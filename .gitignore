@@ -1,7 +1,6 @@
 # main
 config.ini
 config.py
-test.py
 
 # Editors
 .vscode/
