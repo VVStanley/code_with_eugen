@@ -2,7 +2,7 @@ name: Run test dz
 
 on:
   push:
-    branches: [ master, dev ]
+    branches: [ dev ]
 
 jobs:
   build:
